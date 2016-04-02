@@ -4,3 +4,5 @@ package = Facebook Instant Articles
 core = 7.x
 dependencies[] = ctools
 dependencies[] = fb_instant_articles
+
+files[] = includes/LoggerAppenderDrupal.inc
